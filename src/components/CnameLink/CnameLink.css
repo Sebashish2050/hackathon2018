@@ -1,0 +1,45 @@
+.linkCnameBox {
+    background: #f3f3f3;
+    width: 100%;
+    padding: 20px;
+}
+
+.action-box {
+    margin-top: 20px; 
+}
+
+
+.linkCnameBox button {
+    padding: 14px;
+    margin: 0 0px 0 5px;
+    background: #2196F3;
+    color: #fff;
+    border: 0px;
+    font-size: 15px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.linkCnameBox span {
+    padding: 14px;
+    margin: 0 0px 0 5px;
+    color: #2196F3;
+    border: 0px;
+    font-size: 15px;
+    border-radius: 2px;
+    cursor: pointer;
+}
+
+.linkCnameBox button:nth-child(2) {
+    margin: 0;
+}
+
+.cnameMsg {
+    padding: 1em;
+}
+
+.cnameValue {
+    width: 500px;
+    padding: 15px;
+    font-size: 16px;
+}

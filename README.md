@@ -1,0 +1,1 @@
+Lets make 404 Pages save some lives
